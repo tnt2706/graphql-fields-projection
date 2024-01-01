@@ -27,7 +27,7 @@ db.inventory.find({}, { size: 1, "size.uom": 1 }); // Invalid starting in 4.4
 ## Install
 
 ```sh
-npm install graphql-fields-projection
+npm install graphql-fields-projection-v2
 ```
 
 ## How to
